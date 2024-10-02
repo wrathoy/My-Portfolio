@@ -1,0 +1,23 @@
+The 10 html tags i've used:
+1/ <link>
+2/ <script>
+3/ <meta>
+4/ <header>
+5/ <h1>
+6/ <div>
+7/ <button>
+8/ <a>
+9/ <img>
+10/ <footer>
+and more ...
+
+The 5 CSS properties i've used:
+1/ text-decoration
+2/ padding
+3/ border
+4/ background-color
+5/ text-align
+and more ...
+
+I have used JavaScript to add a dark mode toggle icon that allows users to switch between dark and light themes.
+Additionally, I utilized Bootstrap to create a services card and incorporated various icons, including email and GitHub icons, on my web page.
